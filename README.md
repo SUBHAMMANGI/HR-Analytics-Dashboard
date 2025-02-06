@@ -14,7 +14,7 @@ The HR Analytics Dashboard is a Tableau-based interactive visualization tool des
 
 ## Tableau Public Link
 You can explore the interactive HR Analytics Dashboard on Tableau Public using the following link:
-[HR Analytics Dashboard](https://public.tableau.com/views/HR_Analytics_Dashboard_17276586660660/HRAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[HR Analytics Dashboard](https://public.tableau.com/views/HrDashboard_17276589182310/HrAnalyticsdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
